@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1747317010 source:c:\users\user\documents\tugas sekolah\laprak ulm\semester 2\algo\laprak 4\double linked list\disposable.c
+
+1747820392 source:c:\users\user\documents\tugas sekolah\laprak ulm\semester 2\algo\laprak 4\double linked list\main.cpp
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+

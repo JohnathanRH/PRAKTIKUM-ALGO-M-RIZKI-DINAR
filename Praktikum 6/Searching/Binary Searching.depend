@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1749525740 source:d:\tugas sekolah\laprak ulm\semester 2\algo\laprak 6\binary searching\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

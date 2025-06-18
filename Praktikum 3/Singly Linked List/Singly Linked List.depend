@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745936123 source:c:\users\user\documents\tugas sekolah\laprak ulm\semester 2\algo\laprak 3\singly linked list\main.cpp
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+
